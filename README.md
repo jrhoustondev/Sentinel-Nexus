@@ -1,16 +1,19 @@
-Sentinel Nexus Proprietary License
+Sentinel Nexus combines two powerful ideas:
+- Sentinel — a vigilant guardian, always watching and protecting.
+- Nexus — a central connection point, where systems, data, and decisions converge.
+Together, Sentinel Nexus represents a secure, intelligent hub for mobile oversight—built not just to track, but to empower.
+ code from compiled assets.
 
-Copyright © 2025 JR Houston
+Not Your Average Phone Tracker
+Sentinel Nexus isn’t just another GPS app. It’s a multi-layered mobile intelligence platform designed for:
+- Real-time device monitoring with encrypted location logs.
+- Behavioral alerts for unusual activity or unauthorized access.
+- Secure vault integration for sensitive data and recovery protocols.
+- Modular automation for remote commands, lockdowns, and audit trails.
 
-All rights reserved.
-
-This software and its associated files, branding, and documentation are proprietary to JR Houston and the Momentum platform. Unauthorized copying, modification, distribution, or use of any part of this project is strictly prohibited without prior written consent.
-
-You may not:
-- Use this software for commercial purposes without a license.
-- Modify or redistribute any part of the codebase.
-- Reverse-engineer, decompile, or attempt to extract source code from compiled assets.
-
-This software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
-
-For licensing inquiries, investor demos, or collaboration requests, contact JR Houston directly.
+What’s Coming Next
+Future updates will expand Sentinel Nexus into:
+- Cross-device syncing for families, teams, and enterprise fleets.
+- AI-powered anomaly detection to flag suspicious patterns.
+- Azure-backed recovery flows for lost or compromised devices.
+- Custom dashboards for investor demos, parental controls, or business analytics.
